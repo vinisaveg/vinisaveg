@@ -1,4 +1,4 @@
-## Hey I'm Vinicius 👋
+## Hey, I'm Vinicius 👋
 
 > I am a Front-end Developer, currently working at [Farfetch](https://www.farfetch.com).
 
