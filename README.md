@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hey I'm Vinicius 👋
 
-<!--
-**vinisaveg/vinisaveg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> I am a Front-end Developer, current working at [Farfetch](https://www.farfetch.com).
 
-Here are some ideas to get you started:
+## About Me 
+I'm 24. Studying Web Development for about 1 / half years, intending to be graduated next year.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Passions
+My family, friends, sports, eSports and obviously, technology.
+
+## Let's code together !
+One of the best things we can do is type together. Sharing experiences, solving problems, errors and creating awesome stuff as a team. 
+
+## Contact me
+- **Instagram** - [Personal](https://www.instagram.com/viniisaveeg) & [Portfolio](https://www.instagram.com/vsgdesigner)
+- **[LinkedIn](https://www.linkedin.com/in/vinicius-savegnago-95b438179)**
+- **[Behance](https://www.behance.net/viniciussilva3)**
+- **[Website](https://vsgdesign.me)**
