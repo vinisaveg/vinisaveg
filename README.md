@@ -1,17 +1,17 @@
-### Hey I'm Vinicius 👋
+## Hey I'm Vinicius 👋
 
 > I am a Front-end Developer, current working at [Farfetch](https://www.farfetch.com).
 
-## About Me 
+### About Me :sunglasses:
 I'm 24. Studying Web Development for about 1 / half years, intending to be graduated next year.
 
-## Passions
+### Passions :heartpulse:
 My family, friends, sports, eSports and obviously, technology.
 
-## Let's code together !
+### Let's code together ! :punch:
 One of the best things we can do is type together. Sharing experiences, solving problems, errors and creating awesome stuff as a team. 
 
-## Contact me
+### Contact me :speech_balloon:
 - **Instagram** - [Personal](https://www.instagram.com/viniisaveeg) & [Portfolio](https://www.instagram.com/vsgdesigner)
 - **[LinkedIn](https://www.linkedin.com/in/vinicius-savegnago-95b438179)**
 - **[Behance](https://www.behance.net/viniciussilva3)**
