@@ -1,6 +1,6 @@
 ## Hey, I'm Vinicius 👋
 
-> I am a Front-end Developer, currently working at [Farfetch](https://www.farfetch.com).
+> I am a Front-end developer, currently working at [Farfetch](https://www.farfetch.com).
 
 ### About Me :sunglasses:
 I'm 24. Studying Web Development for about 1 / half years, intending to be graduated next year.
