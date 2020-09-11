@@ -3,7 +3,7 @@
 > I am a Front-end developer, currently working at [Farfetch](https://www.farfetch.com).
 
 ### About Me :sunglasses:
-I'm 24. Studying Web Development for about 1 / half years, intending to be graduated next year.
+I'm 24. Studying Web Development for about 2 years, intending to be graduated next year.
 
 ### Passions :heartpulse:
 My family, friends, sports, eSports and obviously, technology.
