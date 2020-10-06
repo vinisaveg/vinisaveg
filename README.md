@@ -8,7 +8,7 @@ I'm 24. Studying Web Development for about 2 years, intending to be graduating n
 ### Passions :heartpulse:
 My family, friends, sports, eSports and obviously, technology.
 
-### Let's code together ! :punch:
+### Let's code together! :punch:
 One of the best things we can do is type together. Sharing experiences, solving problems, errors and creating awesome stuff as a team. 
 
 ### Contact me :speech_balloon:
