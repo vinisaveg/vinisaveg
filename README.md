@@ -8,7 +8,7 @@
 
 ### About Me :sunglasses:
 
-I'm 24. Studying Web Development for about 2 years, intending to graduate next year.
+I'm 25. Studying Web Development for about 2 years, intending to graduate next year.
 
 ### Passions :heartpulse:
 
@@ -20,7 +20,7 @@ One of the best things we can do is type together. Sharing experiences, solving 
 
 ### Contact me :speech_balloon:
 
-- **Instagram** - [Personal](https://www.instagram.com/viniisaveeg) & [Portfolio](https://www.instagram.com/vsgdesigner)
+- **[Instagram](https://www.instagram.com/viniisaveeg)**
 - **[LinkedIn](https://www.linkedin.com/in/vinicius-savegnago-95b438179)**
 - **[Behance](https://www.behance.net/viniciussilva3)**
 - **[Website](https://vsgdesign.me)**
