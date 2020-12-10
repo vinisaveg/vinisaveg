@@ -23,4 +23,4 @@ One of the best things we can do is type together. Sharing experiences, solving 
 - **[Instagram](https://www.instagram.com/viniisaveeg)**
 - **[LinkedIn](https://www.linkedin.com/in/vinicius-savegnago-95b438179)**
 - **[Behance](https://www.behance.net/viniciussilva3)**
-- **[Website](https://vsgdesign.me)**
+- **[Website](https://vinisaveg.com)**
