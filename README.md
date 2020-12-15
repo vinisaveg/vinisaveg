@@ -24,3 +24,5 @@ One of the best things we can do is type together. Sharing experiences, solving 
 - **[LinkedIn](https://www.linkedin.com/in/vinicius-savegnago-95b438179)**
 - **[Behance](https://www.behance.net/viniciussilva3)**
 - **[Website](https://vinisaveg.com)**
+
+![Vinisaveg's github stats](https://github-readme-stats.vercel.app/api?username=vinisaveg&show_icons=true&theme=dark)
