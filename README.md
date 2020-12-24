@@ -23,6 +23,7 @@ One of the best things we can do is type together. Sharing experiences, solving 
 - **[Instagram](https://www.instagram.com/vinisaveg)**
 - **[LinkedIn](https://www.linkedin.com/in/vinicius-savegnago-95b438179)**
 - **[Behance](https://www.behance.net/vinisaveg)**
-- **[Website](https://vinisaveg.com)**
+- **[Website](https://vinisaveg.com)** 
+- **[Twitch](https://www.twitch.tv/vinisaveg/about)**
 
 ![Vinisaveg's github stats](https://github-readme-stats.vercel.app/api?username=vinisaveg&show_icons=true&theme=dark)
