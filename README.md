@@ -25,5 +25,6 @@ One of the best things we can do is type together. Sharing experiences, solving 
 - **[Behance](https://www.behance.net/vinisaveg)**
 - **[Website](https://vinisaveg.com)** 
 - **[Twitch](https://www.twitch.tv/vinisaveg/about)**
+- **[Youtube](https://www.youtube.com/channel/UCmXwSTz2OD_e6L981xCt0Cg)**
 
 ![Vinisaveg's github stats](https://github-readme-stats.vercel.app/api?username=vinisaveg&show_icons=true&theme=dark)
