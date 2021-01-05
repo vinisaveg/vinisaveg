@@ -27,4 +27,9 @@ One of the best things we can do is type together. Sharing experiences, solving 
 - **[Twitch](https://www.twitch.tv/vinisaveg/about)**
 - **[Youtube](https://www.youtube.com/channel/UCmXwSTz2OD_e6L981xCt0Cg)**
 
+### Last posts
+- [TypeGraphQL, o básico em uma API de receitas](https://dev.to/vinisaveg/typegraphql-o-basico-em-uma-api-de-receitas-3ehb)
+- [URQL, o básico](https://dev.to/vinisaveg/urql-o-basico-3772)
+- [Crie seu próprio template customizado para seus apps Reactjs](https://dev.to/vinisaveg/crie-seu-proprio-template-customizado-para-seus-apps-reactjs-3d1a)
+
 ![Vinisaveg's github stats](https://github-readme-stats.vercel.app/api?username=vinisaveg&show_icons=true&theme=dark)
