@@ -8,7 +8,7 @@
 
 ### About Me :sunglasses:
 
-I'm 25. Studying Web Development for about 2 years, intending to graduate next year.
+I'm 25. Studying Web Development for about 2 years, intending to graduate this year.
 
 ### Passions :heartpulse:
 
