@@ -32,6 +32,7 @@ One of the best things we can do is type together. Sharing experiences, solving 
 - [URQL, o básico](https://dev.to/vinisaveg/urql-o-basico-3772)
 - [Crie seu próprio template customizado para seus apps Reactjs](https://dev.to/vinisaveg/crie-seu-proprio-template-customizado-para-seus-apps-reactjs-3d1a)
 - [Tema customizado para o Visual Studio Code](https://dev.to/vinisaveg/tema-customizado-para-o-visual-studio-code-3d34)
+- [Consumindo uma API GraphQL com SWR](https://dev.to/vinisaveg/consumindo-uma-api-graphql-com-swr-4ejo)
 
 &nbsp;
 
