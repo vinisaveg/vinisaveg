@@ -2,9 +2,9 @@
    <img src=".github/banner.svg" width="100%"/>
 </p>
 
-## Hey, I'm Vinicius 👋
+## Hey, I'm Vinicius, aka Vini. 👋
 
-> I am Vinicius, aka vini. I am a Front-end developer, currently working at [FARFETCH](https://www.farfetch.com).
+> I am a Front-end developer, currently working at [FARFETCH](https://www.farfetch.com).
 
 ### About Me :sunglasses:
 
