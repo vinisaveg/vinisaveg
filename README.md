@@ -4,15 +4,15 @@
 
 ## Hey, I'm Vinicius 👋
 
-> I am a Front-end developer, currently working at [FARFETCH](https://www.farfetch.com).
+> I am Vinicius, aka vini. I am a Front-end developer, currently working at [FARFETCH](https://www.farfetch.com).
 
 ### About Me :sunglasses:
 
-I'm 25. Studying Web Development for about 2 years, intending to graduate this year.
+I'm 25. Studying Web Development for about 2 years, intending to graduate in this year of 2021.
 
 ### Passions :heartpulse:
 
-My family, friends, sports, eSports and obviously, technology.
+My family, friends, sports, eSports and creating software.
 
 ### Let's code together! :punch:
 
@@ -27,7 +27,7 @@ One of the best things we can do is type together. Sharing experiences, solving 
 - **[Twitch](https://www.twitch.tv/vinisaveg/about)**
 - **[Youtube](https://www.youtube.com/channel/UCmXwSTz2OD_e6L981xCt0Cg)**
 
-### Last posts
+### Last posts :star:
 
 - [TypeGraphQL, o básico em uma API de receitas](https://dev.to/vinisaveg/typegraphql-o-basico-em-uma-api-de-receitas-3ehb)
 - [URQL, o básico](https://dev.to/vinisaveg/urql-o-basico-3772)
