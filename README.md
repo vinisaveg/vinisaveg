@@ -2,13 +2,13 @@
    <img src=".github/banner.svg" width="100%"/>
 </p>
 
-## Hey, I'm Vinicius, aka Vini. 👋
+## Hey, I'm Vinicius, aka Vini. 👋 🇧🇷
 
 > I am a Front-end developer, currently working at [FARFETCH](https://www.farfetch.com).
 
 ### About Me :sunglasses:
 
-I'm 25. Studying Web Development for about 2 years, intending to graduate in this year of 2021.
+I'm 25 years old, newly graduated web development student from Senac, studying software development for 2 years.
 
 ### Passions :heartpulse:
 
