@@ -8,7 +8,7 @@
 
 ### About Me :sunglasses:
 
-I'm 25 years old, newly graduated web development student from Senac, studying software development for 2 years.
+I'm 25 years old, newly graduated web development student from Senac University, studying the software ecosystem for 2 years.
 
 ### Passions :heartpulse:
 
