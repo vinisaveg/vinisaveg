@@ -4,7 +4,7 @@
 
 ## Hey, I'm Vinicius, aka Vini. 👋 🇧🇷
 
-> I am a Front-end developer, currently working at [FARFETCH](https://www.farfetch.com).
+> I am a Software Developer from Brazil.
 
 ### About Me :sunglasses:
 
