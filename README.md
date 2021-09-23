@@ -1,22 +1,16 @@
-<p align="center">
-   <img src=".github/banner.svg" width="100%"/>
-</p>
+[<p align="center"><img src=".github/banner.png" width="100%"/></p>](https://vinisaveg.com)
 
-## Hey, I'm Vinicius, aka Vini. 👋 🇧🇷
+## Hey, I'm Vinicius, aka Vini. 👋
 
-> I am a Software Developer from Brazil.
-
-### About Me :sunglasses:
-
-I'm 25 years old, newly graduated web development student from Senac University, studying the software ecosystem for 2 years.
+I'm 25 years old, newly graduated Web Development student from Senac University. I have been studying the software ecosystem for 2 years, building websites, landing pages, e-commerce platforms and others applications.
 
 ### Passions :heartpulse:
 
-My family, friends, sports, eSports and creating software.
+My family, friends, sports, eSports and building software.
 
 ### Let's code together! :punch:
 
-One of the best things we can do is type together. Sharing experiences, solving problems, errors and creating awesome stuff as a team.
+One of the best things we can do is type together. Sharing experiences, solving problems, errors and creating awesome stuff as a team. Get in touch with me in any social media, and let's work together!
 
 ### Contact me :speech_balloon:
 
@@ -27,7 +21,7 @@ One of the best things we can do is type together. Sharing experiences, solving 
 - **[Twitch](https://www.twitch.tv/vinisaveg/about)**
 - **[Youtube](https://www.youtube.com/channel/UCmXwSTz2OD_e6L981xCt0Cg)**
 
-### Last posts :star: 
+### Last posts :star:
 
 - [TypeGraphQL, o básico em uma API de receitas](https://dev.to/vinisaveg/typegraphql-o-basico-em-uma-api-de-receitas-3ehb)
 - [URQL, o básico](https://dev.to/vinisaveg/urql-o-basico-3772)
