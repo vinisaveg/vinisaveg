@@ -2,7 +2,7 @@
 
 ## Hey, I'm Vinicius, aka Vini. 👋
 
-I'm 25 years old, newly graduated Web Development student from Senac University. I have been studying the software ecosystem for 2 years, building websites, landing pages, e-commerce platforms and others applications.
+I'm 25 years old, newly graduated Web Development student from Senac University. I have been studying the software ecosystem for 2 years, building websites, landing pages, e-commerce platforms and other applications.
 
 ### Passions :heartpulse:
 
