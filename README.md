@@ -17,7 +17,7 @@ One of the best things we can do is type together. Sharing experiences, solving 
 - **[Instagram](https://www.instagram.com/vinisaveg)**
 - **[LinkedIn](https://www.linkedin.com/in/vinicius-savegnago-silva/)**
 - **[Behance](https://www.behance.net/vinisaveg)**
-- **[Website](https://www.vinisaveg.com)**
+- **[Website](https://www.vinisaveg.tech)**
 - **[Twitch](https://www.twitch.tv/vinisaveg/about)**
 - **[Youtube](https://www.youtube.com/channel/UCmXwSTz2OD_e6L981xCt0Cg)**
 
