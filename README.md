@@ -23,9 +23,7 @@ One of the best things we can do is type together. Sharing experiences, solving 
 
 ### Last posts :star:
 
-
-- [Outros 3 Padrões de Arquitetura de Software Simplificados e Exemplificados](https://dev.to/vinisaveg/outros-3-padroes-de-arquitetura-de-software-simplificados-e-exemplificados-5ckd)
-- [3 Padrões de Arquitetura de Software Simplificados e Exemplificados](https://dev.to/vinisaveg/3-padroes-de-arquitetura-de-software-simplificados-e-exemplificados-2cgm)
+- [5 Typescript tips to save your day](https://dev.to/vinisaveg/5-typescript-tips-to-save-your-day-3d5n)
 - [Arquitetura de Software Simplificada](https://dev.to/vinisaveg/arquitetura-de-software-simplificada-1pkm)
 - [Análise de Performance com Lighthouse e Github Actions](https://dev.to/vinisaveg/analise-de-performance-com-lighthouse-e-github-actions-5ggj)
 - [Meu Boilerplate Fullstack](https://dev.to/vinisaveg/meu-boilerplate-fullstack-3bdp)
