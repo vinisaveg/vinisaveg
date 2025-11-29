@@ -2,7 +2,7 @@
 
 ## Hey, I'm Vinicius, aka Vini. 👋
 
-I'm 29 years old, graduated Web Developer from Senac University. I have been studying the software ecosystem since 2019, building websites, landing pages, e-commerce platforms and other applications.
+I'm 30 years old, graduated Web Developer from Senac University. I have been studying the software ecosystem since 2019, building websites, landing pages, e-commerce platforms and other applications.
 
 ### Passions :heartpulse:
 
@@ -28,7 +28,3 @@ One of the best things we can do is type together. Sharing experiences, solving 
 - [Meu Boilerplate Fullstack](https://dev.to/vinisaveg/meu-boilerplate-fullstack-3bdp)
 - [Crie seu próprio template customizado para seus apps Reactjs](https://dev.to/vinisaveg/crie-seu-proprio-template-customizado-para-seus-apps-reactjs-3d1a)
 - [Tema customizado para o Visual Studio Code](https://dev.to/vinisaveg/tema-customizado-para-o-visual-studio-code-3d34)
-
-&nbsp;
-
-![Vinisaveg's github stats](https://github-readme-stats.vercel.app/api?username=vinisaveg&show_icons=true&theme=dark)
